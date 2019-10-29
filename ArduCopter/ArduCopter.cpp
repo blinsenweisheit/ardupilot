@@ -70,6 +70,14 @@
  *  Code commit statistics can be found here: https://github.com/ArduPilot/ardupilot/graphs/contributors
  *  Wiki: http://copter.ardupilot.org/
  *  Requires modified version of Arduino, which can be found here: http://ardupilot.com/downloads/?category=6
+ * 
+ * Notes by Peter Steidten:
+ * Modified version for an Anticipating Altitude Control of ArduCopter
+ * Starting with code:          2019-10-28 20:00+01:00
+ * 
+ * Last update at:              2019-10-29 12:26+01:00
+ * (this is a temporary workaround to check, wether forking worked)
+ * Is last update deprecated?   No
  *
  */
 
